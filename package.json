@@ -1,0 +1,27 @@
+{
+  "name": "mimo-practices-ts",
+  "version": "1.0.0",
+  "description": "TypeScript practice repository for Codewars challenges based on Mimo app topics",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch",
+    "test:coverage": "jest --coverage"
+  },
+  "keywords": [
+    "codewars",
+    "typescript",
+    "practice",
+    "mimo"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jest": "^30.0.0",
+    "@types/node": "^24.10.1",
+    "jest": "^30.2.0",
+    "ts-jest": "^29.4.5",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
+  }
+}
